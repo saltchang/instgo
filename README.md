@@ -2,6 +2,8 @@
 
 A simple [Go Language](https://golang.org) installer for Linux & macOS.
 
+![instgo](https://github.com/saltchang/instgo/blob/main/assets/demo.jpg?raw=true)
+
 ## Usage
 
 ```bash

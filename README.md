@@ -1,10 +1,23 @@
 # Instgo
 
-A simple [Go Language](https://golang.org) installer for Linux & macOS.
+A simple [Go Language](https://golang.org) installer for Linux.
 
 ![instgo](https://github.com/saltchang/instgo/blob/main/assets/demo.jpg?raw=true)
 
+## Requirement
+
+- Linux
+- Bash 5+
+
 ## Usage
+
+You can clone this repo and run:
+
+```bash
+./instgo
+```
+
+Or just run without clone:
 
 ```bash
 bash <(curl -sS https://raw.githubusercontent.com/saltchang/instgo/main/instgo)
